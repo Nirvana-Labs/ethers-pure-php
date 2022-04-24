@@ -1,5 +1,5 @@
 # ethers-pure-php
-Created by [https://nirvanalabs.io](Nirvana Labs)
+Created by [Nirvana Labs](https://nirvanalabs.io).
 
 ### LTS RELEASE
 Created for ultimate stability.
